@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Léo :wave:</h1>
+<h1 align="center">Hi, I'm Cyril :wave:</h1>
 
 <br />
 
@@ -23,6 +23,10 @@
 <br />
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pixelum42&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelum42&layout=compact&theme=dracula&hide_border=true&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cyrilcolinet&theme=dracula&column=7&margin-w=10&no-frame=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cyrilcolinet&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilcolinet&layout=compact&theme=dracula&hide_border=true&count_private=true" />
 </p>
