@@ -11,3 +11,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pixelum42&theme=dracula&column=7&margin-w=10&no-frame=true" />
 </p>
+
